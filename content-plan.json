@@ -1,0 +1,31 @@
+{
+  "business": "Arshad Plumbing & Electrician Works",
+  "phone": "0302-6581512",
+  "service_area": "Lahore, Pakistan",
+  "experience": "15+ years",
+  "brand_colors": ["navy", "blue", "orange", "white"],
+  "posts": [
+    {"number": 9, "topic": "Ceiling fan installation and repair"},
+    {"number": 10, "topic": "Lahore service areas"},
+    {"number": 11, "topic": "Tap and sanitary work"},
+    {"number": 12, "topic": "Electrical fault finding"},
+    {"number": 13, "topic": "Plumbing maintenance tip"},
+    {"number": 14, "topic": "Weekend home repair services"},
+    {"number": 15, "topic": "Bathroom plumbing services"},
+    {"number": 16, "topic": "Light installation and replacement"},
+    {"number": 17, "topic": "Real work and experience / completed job"},
+    {"number": 18, "topic": "Kitchen plumbing services"},
+    {"number": 19, "topic": "Home and office plumbing + electrical services"},
+    {"number": 20, "topic": "Electrical safety tip"},
+    {"number": 21, "topic": "One call for plumbing and electrical work"},
+    {"number": 22, "topic": "Drainage and slow drain problems"},
+    {"number": 23, "topic": "Electrical wiring services"},
+    {"number": 24, "topic": "FAQ: service-area business / home visits"},
+    {"number": 25, "topic": "Before and after repair showcase"},
+    {"number": 26, "topic": "Customer review / trust post"},
+    {"number": 27, "topic": "When should you call a plumber checklist"},
+    {"number": 28, "topic": "When should you call an electrician checklist"},
+    {"number": 29, "topic": "Brand reminder: 15+ years, Lahore, home visits"},
+    {"number": 30, "topic": "Strong monthly call-to-action"}
+  ]
+}
