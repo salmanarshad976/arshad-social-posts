@@ -1,7 +1,11 @@
 {
-  "next_post": 9,
+  "next_post": 12,
   "last_scheduled_existing_post_date": "2026-10-08",
   "daily_publish_time": "10:00",
   "timezone": "Asia/Karachi",
-  "facebook_page": "Arshad Plumbing & Electrician Works"
+  "facebook_page": "Arshad Plumbing & Electrician Works",
+  "last_prepared_post": 11,
+  "last_prepared_post_date": "2026-10-11",
+  "last_prepared_topic": "Tap and sanitary work",
+  "last_published_post": 8
 }
